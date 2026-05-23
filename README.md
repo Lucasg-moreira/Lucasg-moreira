@@ -4,31 +4,6 @@ Desenvolvedor de Software com foco em **Backend Java**, apaixonado por construir
 
 Tenho experiência com **Java 8/17/21**, **Spring Boot**, **microsserviços**, **mensageria**, **Docker**, **Kubernetes**, **SQL** e atuação em **produção**, incluindo troubleshooting, sustentação e evolução de sistemas críticos.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasg-moreira&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasg-moreira&layout=compact&theme=tokyonight&hide_border=true" />
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Lucasg-moreira&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Lucasg-moreira&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
-
-</div>
-
----
-
 ## 🚀 Sobre mim
 
 Atuo no desenvolvimento de soluções backend com foco em:
@@ -36,7 +11,6 @@ Atuo no desenvolvimento de soluções backend com foco em:
 - construção e evolução de APIs REST
 - microsserviços com Spring Boot
 - mensageria e integrações entre sistemas
-- troubleshooting e suporte em produção
 - melhoria contínua de arquitetura, estabilidade e performance
 - boas práticas de desenvolvimento, testes e qualidade de código
 
@@ -49,7 +23,6 @@ Ao longo da minha trajetória, trabalhei em sistemas críticos de **faturamento*
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Jersey](https://img.shields.io/badge/Jersey-2C2255?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Frontend
@@ -83,46 +56,6 @@ Ao longo da minha trajetória, trabalhei em sistemas críticos de **faturamento*
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge)
-
----
-
-## 💼 Experiência em destaque
-
-### Sistema crítico de faturamento e execução de pedidos
-Atuação no principal sistema da empresa, com foco em estabilidade, escalabilidade e evolução da plataforma.
-
-**Principais contribuições:**
-- arquitetura e implementação de um microserviço intermediador de mensageria
-- desacoplamento entre serviços com centralização da lógica de publicação e consumo de eventos
-- troubleshooting de incidentes críticos em produção com Kubernetes
-- otimização de pipelines CI/CD
-- redução do tamanho de imagens Docker para acelerar deploys
-- modernização de fluxos e interfaces com foco em usabilidade
-
-### Recuperação e modernização de sistema acadêmico
-Atuação na recuperação de um sistema sem manutenção desde 2020, trazendo mais estabilidade e continuidade operacional.
-
-**Principais contribuições:**
-- reestruturação do sistema e redução de falhas em produção
-- implementação de módulo de ensalamento automatizado
-- integração com Microsoft para criação automática de e-mails institucionais
-- integração com Santander para geração automática de QR Code Pix
-- deploy, monitoramento, troubleshooting e suporte em produção
-
----
-
-## 📌 O que você vai encontrar por aqui
-
-Neste GitHub, compartilho projetos e estudos relacionados a:
-
-- Java e Spring Boot
-- microsserviços
-- arquitetura backend
-- mensageria
-- integrações entre sistemas
-- containers e orquestração
-- testes e boas práticas
-- experimentos com novas tecnologias
 
 ---
 
