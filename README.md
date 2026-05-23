@@ -10,7 +10,7 @@ Tenho experiência com **Java 8/17/21**, **Spring Boot**, **microsserviços**, *
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucasg-moreira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucasg-moreira&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasg-moreira&layout=compact&theme=tokyonight&hide_border=true)
 
